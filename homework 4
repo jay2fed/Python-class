@@ -1,0 +1,5 @@
+marks_obtained=35
+total_points=50
+percentage=marks_obtained/total_points
+print(percentage)
+the answer is 0.7
