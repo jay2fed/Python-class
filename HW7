@@ -1,0 +1,7 @@
+def main():
+  total amount=int(input("total marks"))
+  if total amount >50:
+    print ("student has passed")
+  if total amount <50:
+    print ("student has falied")
+main ()   
