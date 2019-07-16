@@ -1,0 +1,4 @@
+.append() method adds another element to the list 
+.remove() method removes the item passed as an argument 
+.extend() method is used to insert multiple elements into one list
+The difference between .pop() and .clear() is that .clear() removes but doesn't return any value while .pop() removes and returns value
